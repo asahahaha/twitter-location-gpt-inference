@@ -8,8 +8,8 @@ Pre-trained Large Language Models (LLMs) are increasingly employed to deduce geo
 Keywords: Large Language Models, Geolocation Inference, Twitter, Data Privacy
 
 ## Experiments
-<img src="assets/prompt.png" alt="drawing" width="50%"/ >
-<img src="assets/example1.png" alt="drawing" width="50%" />
+<img src="assets/prompt.png" alt="drawing" width="50%"/>
+<img src="assets/example1.png" alt="drawing" width="50%"/>
 
 ## Result
 <img src="assets/result.png" alt="drawing" width="50%"/>
